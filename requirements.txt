@@ -1,0 +1,35 @@
+# Core Streamlit and web framework
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# Web scraping and automation
+selenium>=4.15.0
+webdriver-manager>=4.0.1
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+
+# Data processing and analysis
+pandas>=2.1.0
+numpy>=1.24.0
+plotly>=5.17.0
+
+# Date and time handling
+python-dateutil>=2.8.2
+
+# File handling and utilities
+openpyxl>=3.1.2
+xlsxwriter>=3.1.9
+
+# Web browser automation
+undetected-chromedriver>=3.5.4
+
+# Additional utilities
+fake-useragent>=1.4.0
+lxml>=4.9.3
+
+# Optional: For better performance
+psutil>=5.9.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-selenium>=4.1.0
